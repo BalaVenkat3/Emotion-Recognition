@@ -1,2 +1,2 @@
 # Emotion-Recognition
-Users emotion using its facial expressions will be Recognised.
+Users emotion will be recognised using Facial expressions.
